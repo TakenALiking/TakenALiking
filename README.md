@@ -15,7 +15,7 @@ Here's a list of technologies that I'm learning or have experience in.
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  
 </div>
 
 #### Web Frameworks
@@ -30,6 +30,7 @@ Here's a list of technologies that I'm learning or have experience in.
 #### Mobile Development
 <div>
   <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 </div>
 
 #### Backend Frameworks

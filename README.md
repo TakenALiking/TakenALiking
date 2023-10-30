@@ -17,8 +17,8 @@
   </a> -->
 </div>
 
-<h2 align="center">🚀 Technologies 🚀</h2>
-<div align="center">
+<h2>🚀 Technologies 🚀</h2>
+<div>
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -29,31 +29,31 @@
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />        
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-  <br/>
+
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <br/>
+
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <br/>
+  
   <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <br/>
+  
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />    
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <br/>
+
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
-  <br/>
+
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
   <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <br/>
+
   <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
   <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
   <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -69,7 +69,7 @@
   <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>⚡ Stats ⚡</h2>
 <br>
 <div>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=takenaliking&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />

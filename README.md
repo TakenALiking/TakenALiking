@@ -19,54 +19,53 @@
 
 <h2>🚀 Technologies 🚀</h2>
 <div>
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />        
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+  <img style="height: 28px" src="https://img.shields.io/badge/typescript-007bcd?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img style="height: 28px" src="https://img.shields.io/badge/python-1c3f5c?style=for-the-badge&logo=python&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/C/C++-blue?style=for-the-badge&logo=c&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/Rust-f46623?style=for-the-badge&logo=rust&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/php-777bb3?style=for-the-badge&logo=php&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
+  <img  style="height: 28px" src="https://img.shields.io/badge/dart-000080?style=for-the-badge&logo=dart&logoColor=white"/>
 
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <br/>
 
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img style="height: 28px" src="https://img.shields.io/badge/angular-c4473a?style=for-the-badge&logo=angular&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/svelte-ff3e00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/vuejs-35495e?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/jquery-78cff5?style=for-the-badge&logo=jquery&logoColor=black" />
+
+  <img style="height: 28px" src="https://img.shields.io/badge/bootstrap-6d10f4?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/tailwindcss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/flutter-02569d?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/django-0c4b33?style=for-the-badge&logo=django&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/flask-1b6d74?style=for-the-badge&logo=flask&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black" />
+
+  <img style="height: 28px" src="https://img.shields.io/badge/godot-478cbe?style=for-the-badge&logo=godot engine&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/unreal engine-black?style=for-the-badge&logo=unreal engine&logoColor=white" />
+
+  <img style="height: 28px" src="https://img.shields.io/badge/redis-dc382c?style=for-the-badge&logo=redis&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/sqlite-0482cc?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/mysql-00748e?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/postgresql-2f6792?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+
+  <img style="height: 28px" src="https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun&logoColor=f9f1e1" />
+  <img style="height: 28px" src="https://img.shields.io/badge/nodejs-026e00?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/blender-e87500?style=for-the-badge&logo=blender&logoColor=black" />
+  <img style="height: 28px" src="https://img.shields.io/badge/adobe photoshop-001e36?style=for-the-badge&logo=adobe photoshop&logoColor=31a8ff" />
+  <img style="height: 28px" src="https://img.shields.io/badge/gimp-0e2426?style=for-the-badge&logo=gimp&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/inkscape-9b9ca4?style=for-the-badge&logo=inkscape&logoColor=black" />
+  <img style="height: 28px" src="https://img.shields.io/badge/docker-01084d?style=for-the-badge&logo=docker&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/linux-1c89bb?style=for-the-badge&logo=linux&logoColor=white" />
   
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />    
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img style="height: 28px" src="https://img.shields.io/badge/debian-a72147?style=for-the-badge&logo=debian&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/arch-0088cc?style=for-the-badge&logo=arch linux&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
-
-  <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img style="height: 28px" src="https://img.shields.io/badge/tensorflow-ff8300?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
 <h2>⚡ Stats ⚡</h2>

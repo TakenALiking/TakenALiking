@@ -27,6 +27,7 @@
   <img style="height: 28px" src="https://img.shields.io/badge/php-777bb3?style=for-the-badge&logo=php&logoColor=white" />
   <img style="height: 28px" src="https://img.shields.io/badge/lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
   <img  style="height: 28px" src="https://img.shields.io/badge/dart-000080?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img style="height: 28px" src="https://img.shields.io/badge/csharp-512bd4?style=for-the-badge&logo=c%23&logoColor=white"/>
 
   <br/>
 
@@ -40,6 +41,7 @@
   <img style="height: 28px" src="https://img.shields.io/badge/flutter-02569d?style=for-the-badge&logo=flutter&logoColor=white" />
   <img style="height: 28px" src="https://img.shields.io/badge/django-0c4b33?style=for-the-badge&logo=django&logoColor=white" />
   <img style="height: 28px" src="https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img style="height: 28px" src="https://img.shields.io/badge/dotnet-512bd4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img style="height: 28px" src="https://img.shields.io/badge/flask-1b6d74?style=for-the-badge&logo=flask&logoColor=white" />
   <img style="height: 28px" src="https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black" />
 
